@@ -75,8 +75,10 @@
   *{conn2000}*  
 
 * *Nesterov, Yurii*  
+  **Introductory Lectures on Convex Optimization**  
+
+* *Nesterov, Yurii*  
   **Lectures on Convex Optimization**  
-  Currently the bib files only contain introdury lectures on covex optimization: a basic course (which is not in this list) and not this one. TODO: which one should be?  
 
 * [Only physical]  
   *Nesterov, Yurii and Nemirovskij, Arkadij S.*  
@@ -103,8 +105,12 @@
 ### *p*-Laplace
 
 * *Lindqvist, Peter*  
+  **Notes on the Infinity-Laplace Equation**  
+  *{lindqvist2016}*  
+
+* *Lindqvist, Peter*  
   **Notes on the Stationary p-Laplace Equation**  
-  TODO: Does not appear yet in bib files, prob. just the paper  
+  *{lindqvist2019}*  
 
 
 
@@ -285,10 +291,6 @@
 
 * *Juutinen, Petri, Parviainen, Mikko and Rossi, Julio D.*  
   **Discontinuous Gradient Constraints and the Inﬁnity Laplacian**  
-
-* *Lindqvist, Peter*  
-  **Notes on the Infinity-Laplace Equation**  
-  TODO: Check if book available!
 
 * *Lu, Guozhen and Wang, Peiyong*  
   **Inhomogeneous infinity Laplace equation**  
