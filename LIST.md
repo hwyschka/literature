@@ -305,6 +305,9 @@
 
 ### *p*-Laplace
 
+* *Aragon, Adriana, Bonder, Julian F. and Rubio, Diana*  
+  **Effective Numerical Computation of p(x)-Laplace Equations in 2D**
+
 * *Atkinson, C. and Champion, C. R.*  
   **Some Boundary-Value Problems for the Equation ...**  
 
@@ -322,6 +325,9 @@
 
 * *Del Teso, Felix and Lindgren, Erik*  
   **A Finite Difference Method fot the Variational p-Laplacian**  
+
+* *Heid, Pascal*  
+  **A Damped Kacanov Scheme for the Numerical Solution of a Relaxed p(x)-Poisson Equation**  
 
 * *Henrot, Antoine and Shahgholian, Henrik*  
   **Existence of classical solutions to a free boundary problem for the p-Laplace operator: (I) the exterior convex case**  
@@ -374,9 +380,18 @@
 * *Blauth, Sebastian*  
   **Space Mapping for PDE Constrained Shape Optimization**  
 
+* *Blauth, Sebastian and Sturm, Kevin*  
+  **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**  
+
+* *Costanzo, S., Sayadi, T., Fosas de Pando, M., Schmid, P.J. and Frey, P.*  
+  **Parallel-in-time adjoint-based optimization – application to unsteady incompressible flows** 
+
 * *Deckelnick, Klaus, Herbert, Philip and Hinze, Michael*  
   **A Novel W 1,∞ Approach to Shape Optimisation with Lipschitz Domains**  
   *{deckelnick2021}*  
+
+* *Dick, Thomas, Gauger, Nicolas R. and Schmidt, Stephan*  
+  **Combining Sobolev Smoothing with Parameterized Shape Optimization**  
 
 * *Eppler, Karsten, Harbrecht, Helmut and Schneider, Reinhold*  
   **On Convergence in Elliptic Shape Optimization**  
@@ -467,16 +482,10 @@
 
 
 
-## Preprints
-
-* *Aragon, Adriana, Bonder, Julian F. and Rubio, Diana*  
-  **Effective Numerical Computation of p(x)-Laplace Equations in 2D**  
+## Preprints  
 
 * *Bartels, Sören and Milicevic, Marijo*  
   **Alternating Direction Method of Multipliers with Variable Step Sizes**  
-
-* *Blauth, Sebastian and Sturm, Kevin*  
-  **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**  
 
 * *Bungert, Leon*  
   **The convergence rate of p-harmonic to infinity-harmonic functions**  
@@ -485,30 +494,22 @@
   **The Asymptotic p-Poisson Equation as p → ∞ in Carnot-Caratheodory Spaces**  
 
 * *Chada, Neil K. and Herbert, Philip J.*  
-  **The Stochatic Steepest Descent Method for Robust Optimization in Banach Spaces**  
-
-* *Costanzo, S., Sayadi, T., Fosas de Pando, M., Schmid, P.J. and Frey, P.*  
-  **Parallel-in-time adjoint-based optimization – application to unsteady incompressible flows**  
+  **The Stochatic Steepest Descent Method for Robust Optimization in Banach Spaces**   
 
 * *Deckelnick, Klaus, Herbert, Philip and Hinze, Michael*  
   **Convergence of a steepest descent algorithm in shape optimisation using W 1,∞ functions**  
   *{deckelnick2023a}*  
 
 * *Deckelnick, Klaus, Herbert, Philip and Hinze, Michael*  
-  **Shape Optimisation in the W 1,∞ Topology With The ADMM Algorithm**  
+  **PDE constrained shape optimisation with first-order and Newton-type methods in the W 1,∞ topology**  
   *{deckelnick2023}*  
-
-* *Dick, Thomas, Gauger, Nicolas R. and Schmidt, Stephan*  
-  **Combining Sobolev Smoothing with Parameterized Shape Optimization**  
+  Title and paper got updated in dezember 23. Previously featured ADMM in title.
 
 * *Dolgopolik, M. V.*  
   **Exact augmented Lagrangians for constrained optimization problems in Hilbert spaces II: Applications**  
 
 * *Goldammer, Nico, Schulz, Volker H. and Welker, Kathrin*  
-  **A semiderivative approach for shape optimization problems constrained by variational inequalities**  
-
-* *Heid, Pascal*  
-  **A Damped Kacanov Scheme for the Numerical Solution of a Relaxed p(x)-Poisson Equation**  
+  **A semiderivative approach for shape optimization problems constrained by variational inequalities**   
 
 * *Herbert, Philip J., Pinzon Escobar, Jose A. and Siebenborn, Martin*  
   **Shape optimization in W 1,∞ with geometric constraints: a study in distributed-memory systems**  
@@ -517,9 +518,6 @@
 * *Herbert, Philip J.*  
   **Shape optimization with W 1,∞: A Connection Between The Steepest Descent and Optimal Transport**  
   *{herbert2023}*  
-
-* *Hirn, Adrian and Wollner, Winnifried*  
-  **An Optimal Control Problem for Equations with p-Structure and its Finite Element Discretization**  
 
 * *Jensen, Bjorn and Valkonen, Tuomo*  
   **A Nonsmooth Primal-Dual Method With Invervowen PDE Constraint Solver**  
