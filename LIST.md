@@ -348,9 +348,6 @@
 * *Kim, Kwang Y.*  
   **Error estimates for a mixed finite volume method for the p-Laplacian problem**  
 
-* *Lakkis, Omar and Pryer, Tristan*  
-  **An adaptive finite element method for the infinity Laplacian**  
-
 * *Li, Wenbo and Salgado, Abner J.*  
   **Two-scale methods for the normalized infinity Laplacian: rates of convergence**  
 
@@ -552,6 +549,10 @@
 * *Hirn, Adrian and Wollner, Winnifried*  
   **An optimal control problem for equations with p-structure and its finite element discretization**  
   *{hirn2022}*  
+
+* *Lakkis, Omar and Pryer, Tristan*  
+  **An adaptive finite element method for the infinity Laplacian**  
+  Was somewhere in the files for the master thesis, but never considered explicitly. Might be relevant for reference.
 
 * *Müller, Peter Marvin, Siebenborn, Martin and Rung, Thomas*  
   **Application of p-Laplacian relaxed Steepest Descent to Shape Optimizations in Two-Phase Flows**  
