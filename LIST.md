@@ -4,6 +4,11 @@
 
 ### Analysis
 
+* *Adams, Robert A. and Fournier, John J. F.*  
+  **Sobolev Spaces**  
+  *{adams2003}*  
+    Die DOI hier linkt nur auf Kapitel, ich finde keine für das komplette Buch.
+
 * *Alt, Hans Wilhelm*  
   **Lineare Funktionalanalysis**  
   *{alt2012}*
@@ -99,6 +104,10 @@
 * *Hinze, Michael, Pinnau, Rene, Ulbrich, Michael and Ulbrich, Stefan*  
   **Optimization with PDE Constraints**  
   *{hinze2009}*  
+
+* *Tröltzsch, Fredi*  
+  **Optimale Steuerung partieller Differentialgleichungen**  
+  *{troeltzsch2009}*  
 
 
 
