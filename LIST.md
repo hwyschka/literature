@@ -640,6 +640,9 @@
 * *Kühl, Niklas*  
   **PhD Thesis: Adjoint-Based Shape Optimization Constraint by Turbulent Two-Phase Navier-Stokes Systems**  
 
+* *Müller, Peter Marvin*  
+  **PhD Thesis: CAD-free Adjoint Shape Optimization of Floating Vessels**  
+
 * *Paganini, Alberto*  
   **PhD Thesis: Numerical Shape Optimization with Finite Elements**  
 
