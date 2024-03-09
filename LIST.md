@@ -74,8 +74,7 @@
 
 ### Optimization
 
-* [Only physical]  
-  *Conn, Andrew R., Gould, Nicholas I. M. and Toint, Philippe L.*  
+* *Conn, Andrew R., Gould, Nicholas I. M. and Toint, Philippe L.*  
   **Trust Region Methods**  
   *{conn2000}*  
 
