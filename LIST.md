@@ -590,6 +590,9 @@
 
 ## Scripts
 
+* *Burger, Martin*  
+  **Infinite-dimensional Optimization and Optimal Design**  
+  
 * *Wollner, Winnifried*  
   **Nichlineare Optimierung**  
 
