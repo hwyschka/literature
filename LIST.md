@@ -533,6 +533,8 @@
 * *Schulz, Volker H., Siebenborn, Martin and Welker, Kathrin*  
   **Towards a Lagrange-Newton Approach for PDE Constrained Shape Optimization**  
 
+* *Starke, Gerhard*  
+  **Shape Optimization by Constrained First-Order System Least Mean Approximation**  
 
 
 
@@ -647,6 +649,9 @@
 
 * *Paganini, Alberto*  
   **PhD Thesis: Numerical Shape Optimization with Finite Elements**  
+
+* *Steck, Daniel*  
+  **PhD Thesis: Lagrange Multiplier Methods for Constrained Optimization and Variational Problems in Banach Spaces**  
 
 * *Wollner, Winnifried*  
   **PhD Thesis: Adaptive Methods for PDE-based Optimal Control with Pointwise Inequality Constraints**  
