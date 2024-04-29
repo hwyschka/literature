@@ -54,6 +54,15 @@
 * *Brenner, Susanne C. and Scott, L. Ridgway*  
   **The Mathematical Theory of Finite Element Methods**  
 
+* [Only physical]  
+  *Ciarlet, Philippe G.*  
+  **The finite element method for elliptic problems**  
+  *{ciarlet1978}*  
+
+* *Girault, Vivette and Raviart, Pierre-Arnaud*  
+  **Finite Element Methods for Navier-Stokes Equations**  
+    On p.20 a definition of vector-valued Soblev norm  
+
 
 
 ### Misc
@@ -69,6 +78,12 @@
 
 * *Nagel, Wolfgang E., Kröner, Dietmar H. and Resch, Michael M.*  
   **High Performance Computing in Science and Engineering '21**  
+
+* *Quarteroni, Alfio and Valli, Alberto*  
+  **Numerical Approximation of Partial Differential Equations**  
+
+* *Toselli, Andrea and Widlund, Olof B.*  
+  **Domain Decomposition Methods**  
 
 
 
@@ -107,6 +122,19 @@
 * *Tröltzsch, Fredi*  
   **Optimale Steuerung partieller Differentialgleichungen**  
   *{troeltzsch2009}*  
+
+
+
+### Partial Differential Equations
+
+* *Taylor, Michael E.*  
+  **Partial Differential Equations I**  
+
+* *Taylor, Michael E.*  
+  **Partial Differential Equations II**  
+
+* *Taylor, Michael E.*  
+  **Partial Differential Equations III**  
 
 
 
@@ -181,6 +209,9 @@
 
 ### Misc
 
+* *Allaire, Grégoire, Bihr, Martin, Bogosel, Beniamin and Godoy, Matias*  
+  **Accessibility constraints in structural optimization via distance functions**  
+  
 * *Bartels, Sören, Tovey, Robert and Wassmer, Friedrich*  
   **Singular Solutions, Graded Meshes, and Adaptivity for Total-Variation Regularized Minimization Problems**  
 
@@ -202,6 +233,9 @@
 
 * *Jaksch, Dieter, Givi, Peyman, Daley, Andrew J. and Rung, Thomas*  
   **Variational Quantum Algorithms for Computational Fluid Dynamics**  
+
+* *Kühl, Niklas, Müller, Peter M. and Rung, Thomas*  
+  **Adjoint Complement to the Universal Momentum Law of the Wall**  
 
 * *Martinez, Sandra and Rossi, Julio D.*  
   **Isolation and simplicity for the ﬁrst eigenvalue of the p-Laplacian with a nonlinear boundary condition**  
@@ -401,11 +435,23 @@
 * *Eppler, Karsten, Harbrecht, Helmut and Schneider, Reinhold*  
   **On Convergence in Elliptic Shape Optimization**  
 
+* *Etling, Tommy, Herzog, Roland, Loayza, Estefanía and Wachsmuth, Gerd*  
+  **First and Second Order Shape Optimization Based on Restricted Mesh Deformations**  
+
+* *Etling, Tommy and Herzog, Roland*  
+  **Optimum Experimental Design by Shape Optimization of Specimens in Linear Elasticity**  
+
+* *Etling, Tommy, Herzog, Roland and Siebenborn, Martin*  
+  **Optimum Experimental Design for Interface Identification Problems**  
+
 * *Gangl, P. Langer, U., Laurain, A., Meftahi, H. and Sturm, K.*  
   **Shape Optimization of an Electric Motor Subject to Nonlinear Magnetostatics**  
 
 * *Haubner, Johannes, Siebenborn, Martin and Ulbrich, Michael*  
   **A Continous Perspective on Shape Optimization Via Domain Transformations**  
+
+* *Hiptmair, Ralf, Paganini, Alberto and Sargheini, Sahar*  
+  **Comparison of approximate shape gradients**  
 
 * *Hiptmair, Ralf and Paganini, Alberto*  
   **Shape Optimization by Pursuing Diffeomorphisms**  
