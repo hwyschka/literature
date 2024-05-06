@@ -58,6 +58,7 @@
   *Ciarlet, Philippe G.*  
   **The finite element method for elliptic problems**  
   *{ciarlet1978}*  
+    Sec 5.3. covers p-Laplacian for 2 <= p
 
 * *Girault, Vivette and Raviart, Pierre-Arnaud*  
   **Finite Element Methods for Navier-Stokes Equations**  
@@ -459,6 +460,12 @@
 * *Huang, Y. Q., Li, Ruo, Liu, Wenbin*  
   **Preconditioned Descent Algorithms for p-Laplacian**  
 
+* *Iglesias, José A., Sturm, Kevin and Wechsung, Florian*  
+  **Two-Dimensional Shape Optimization With Nearly Conformal Transformations**
+
+* *Jameson, Antony*  
+  **Aerodynamic Shape Optimization Using the Adjoint Method**   
+
 * *Kühl, Niklas, Nguyen, Thanh Tung, Palm, Michael, Jürgens, Dirk and Rung, Thomas*  
   **Adjoint node-based shape optimization of free-floating vessels**  
 
@@ -558,6 +565,9 @@
 
 * *Dolgopolik, M. V.*  
   **Exact augmented Lagrangians for constrained optimization problems in Hilbert spaces II: Applications**  
+
+* *Geiersbach, Caroline, Suchan, Tim and Welker, Kathrin*  
+  **Stochastic Augmented Lagrangian Method in Riemannian Shape Manifolds**
 
 * *Goldammer, Nico, Schulz, Volker H. and Welker, Kathrin*  
   **A semiderivative approach for shape optimization problems constrained by variational inequalities**   
