@@ -93,6 +93,7 @@
 * *Conn, Andrew R., Gould, Nicholas I. M. and Toint, Philippe L.*  
   **Trust Region Methods**  
   *{conn2000}*  
+    Habe ich für PAMM zitiert  
 
 * *Nesterov, Yurii*  
   **Introductory Lectures on Convex Optimization**  
@@ -107,6 +108,7 @@
 
 * *Nocedal, Jorge and Wright, Stephen J.*  
   **Numerical Optimization**  
+  *{nocedal2006}*  
 
 
 
@@ -423,6 +425,11 @@
 * *Blauth, Sebastian and Sturm, Kevin*  
   **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**  
 
+* *Blauth, Sebastian, Baldan, Marco, Osterroth, Sebastian, Leithäuser, Christian, Apfel, Ulf-Peter, Kleinhaus, Julian, Pellumbi, Kevinjeorjios, Siegmund, Daniel, Steiner, Konrad and Bortz, Michael*  
+  **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**  
+  *{blauth2024}*  
+    Habe ich für PAMM zitiert
+
 * *Costanzo, S., Sayadi, T., Fosas de Pando, M., Schmid, P.J. and Frey, P.*  
   **Parallel-in-time adjoint-based optimization – application to unsteady incompressible flows** 
 
@@ -445,14 +452,18 @@
 * *Etling, Tommy, Herzog, Roland and Siebenborn, Martin*  
   **Optimum Experimental Design for Interface Identification Problems**  
 
-* *Gangl, P. Langer, U., Laurain, A., Meftahi, H. and Sturm, K.*  
+* *Gangl, Peter, Langer, Ulrich, Laurain, Antoine, Meftahi, Houcine and Sturm, Kevin*  
   **Shape Optimization of an Electric Motor Subject to Nonlinear Magnetostatics**  
+  *{gangl2015}*  
+    Habe ich für PAMM zitiert  
 
 * *Haubner, Johannes, Siebenborn, Martin and Ulbrich, Michael*  
   **A Continous Perspective on Shape Optimization Via Domain Transformations**  
 
 * *Hiptmair, Ralf, Paganini, Alberto and Sargheini, Sahar*  
   **Comparison of approximate shape gradients**  
+  *{hiptmair2015}*
+    Habe ich für PAMM zitiert
 
 * *Hiptmair, Ralf and Paganini, Alberto*  
   **Shape Optimization by Pursuing Diffeomorphisms**  
@@ -468,6 +479,8 @@
 
 * *Kühl, Niklas, Nguyen, Thanh Tung, Palm, Michael, Jürgens, Dirk and Rung, Thomas*  
   **Adjoint node-based shape optimization of free-floating vessels**  
+  *{kuehl2022}*  
+    Habe ich für PAMM zitiert  
 
 * *Luft, Daniel and Schulz, Volker*  
   **Simultaneous shape and mesh quality optimization using pre-shape calculus**  
@@ -509,9 +522,19 @@
   **Parameter-Free Shape Optimization: Various Shape Updates for Engineering Applications**  
   *{radtke2023}*  
 
+* *Schmidt, Stephan, Ilic, Caslav, Schulz, Volker and Gauger, Nicolas R.*  
+  **Three-Dimensional Large-Scale Aerodynamic Shape Optimization Based on Shape Calculus**  
+  *{schmidt2013}*  
+    Habe ich für PAMM zitiert  
+
 * *Schmidt, Stephan and Schulz, Volker H.*  
   **A Linear View On Shape Optimization**  
   *{schmidt2023}*  
+
+* *Schlegel, Luka and Schulz, Volker*  
+  **Shape optimization for the mitigation of coastal erosion via porous shallow water equations**  
+  *{schlegel2022}*  
+    Habe ich für PAMM zitiert  
 
 * *Schulz, Volker and Siebenborn, Martin*  
   **Computational comparison of surface metrics for PDE constrained shape optimization**  
@@ -523,8 +546,13 @@
 * *Swartz, Kenneth E., Mittal, Ketan, Schmidt, Mathias, Barrera, Jorge-Luis, Watts, Seth and Tortorelli, Daniel A.*  
   **Yet another parameter‑free shape optimization method**  
 
+* *Wadbro, Eddie, Udawalpola, Rajitha and Berggren, Martin*  
+  **Shape and topology optimization of an acoustic horn–lens combination**  
+  *{wadbro2010}*  
+
 * *Welker, Kathrin*  
   **Suitable Spaces for Shape Optimization**  
+  *{welker2021}*  
 
 * *Xiao, Yunhai and Wei, Zengxin*  
   **A new subspace limited memory BFGS algorithm for large-scale bound constrained optimization**  
@@ -533,9 +561,18 @@
 
 ### Trust Region
 
-* *Heinkenschloss, Matthias and Ridzal, Denis*  
-  **A Matrix-Free Trust-Region SQP Method For Equality Constrained Optimization**  
+* *Günther, Andreas and Hinze, Michael*  
+  **Elliptic control problems with gradient constraints—variational discrete versus piecewise constant controls**  
+  *{guenther2011}*  
+    Habe ich für PAMM zitiert  
 
+* *Heinkenschloss, Matthias and Ridzal, Denis*  
+  **A Matrix-Free Trust-Region SQP Method For Equality Constrained Optimization** 
+
+* *Ortner, Christoph and Wollner, Winnifried*  
+  **A priori error estimates for optimal control problems with pointwise constraints on the gradient of the state**  
+  *{ortner2011}*  
+    Habe ich für PAMM zitiert  
 
 
 
@@ -550,6 +587,9 @@
 
 * *Capogna, Luca, Giovannardi, Gianmarco, Pinamonti, Andrea and Verzellesi, Simone*  
   **The Asymptotic p-Poisson Equation as p → ∞ in Carnot-Caratheodory Spaces**  
+
+* *Cesarano, Alessio, Endtmayer, Bernhard and Gangl, Peter*  
+  **Homotopy methods for higher order shape optimization: A globalized shape-Newton method and Pareto-front tracing**  
 
 * *Chada, Neil K. and Herbert, Philip J.*  
   **The Stochatic Steepest Descent Method for Robust Optimization in Banach Spaces**   
