@@ -620,6 +620,9 @@
   **Shape optimization with W 1,∞: A Connection Between The Steepest Descent and Optimal Transport**  
   *{herbert2023}*  
 
+* *Hetzel, Laura and Starke, Gerhard *  
+  **Constrained Lp Approximation of Shape Tensors and its Role for the Determination of Shape Gradients**  
+
 * *Jensen, Bjorn and Valkonen, Tuomo*  
   **A Nonsmooth Primal-Dual Method With Invervowen PDE Constraint Solver**  
 
