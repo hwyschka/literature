@@ -58,7 +58,18 @@
   *Ciarlet, Philippe G.*  
   **The finite element method for elliptic problems**  
   *{ciarlet1978}*  
-    Sec 5.3. covers p-Laplacian for 2 <= p
+    Sec 5.3. covers p-Laplacian for 2 <= p  
+
+* *Ern, Alexandre and Guermond, Jean-Luc*  
+  **Finite Elements I**  
+  *{ern2021a}*
+
+* *Ern, Alexandre and Guermond, Jean-Luc*  
+  **Finite Elements II**  
+  *{ern2021b}*
+
+* *Ern, Alexandre and Guermond, Jean-Luc*  
+  **Finite Elements III**    
 
 * *Girault, Vivette and Raviart, Pierre-Arnaud*  
   **Finite Element Methods for Navier-Stokes Equations**  
@@ -97,9 +108,11 @@
 
 * *Nesterov, Yurii*  
   **Introductory Lectures on Convex Optimization**  
+  *{nesterov2004}*  
 
 * *Nesterov, Yurii*  
   **Lectures on Convex Optimization**  
+  *{nesterov2018}*  
 
 * [Only physical]  
   *Nesterov, Yurii and Nemirovskij, Arkadij S.*  
@@ -735,7 +748,7 @@
 ## Theses
 
 * *Fischer, Hendrik*  
-  **Master Thesis: Model Reduction using Incremental Decomposition Techniques to support Unsteady Adjoint-Based Fluid Dynamic Shape Optimization**  
+  **MSc Thesis: Model Reduction using Incremental Decomposition Techniques to support Unsteady Adjoint-Based Fluid Dynamic Shape Optimization**  
 
 * *Hartmann, Christoph*  
   **PhD Thesis: The p-Poisson Equation: Regularity Analysis and Adaptive Wavelet Frame Approximation**  
@@ -749,6 +762,9 @@
 * *Paganini, Alberto*  
   **PhD Thesis: Numerical Shape Optimization with Finite Elements**  
 
+* *Pinzon, Jose*  
+  **PhD Thesis: Shape optimization approaches towards scalable algorithms allowing large deformations**  
+
 * *Steck, Daniel*  
   **PhD Thesis: Lagrange Multiplier Methods for Constrained Optimization and Variational Problems in Banach Spaces**  
 
@@ -756,4 +772,4 @@
   **PhD Thesis: Adaptive Methods for PDE-based Optimal Control with Pointwise Inequality Constraints**  
 
 * *Wyschka, Henrik*  
-  **Master Thesis: Numerical solution for the p-Laplace equation applied to fluid dynamic shape optimization**  
+  **MSc Thesis: Numerical solution for the p-Laplace equation applied to fluid dynamic shape optimization**  
