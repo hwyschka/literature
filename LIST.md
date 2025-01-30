@@ -82,6 +82,10 @@
 * *Heitzinger, Clemens*  
   **Algorithms with JULIA**  
 
+* *Horn, Roger A. and Johnson, Charles R.*  
+  **Matrix Analysis**  
+  *{horn2012}*
+
 * *Iske, Armin and Rung, Thomas*  
   **Modeling, Simulation and Optimization of Fluid Dynamic Applications**  
 
@@ -96,6 +100,8 @@
 
 * *Toselli, Andrea and Widlund, Olof B.*  
   **Domain Decomposition Methods**  
+  *{toselli2006}*  
+  Inverse Sobolev inequality (Lem. B.27)
 
 
 
@@ -122,6 +128,9 @@
 * *Nocedal, Jorge and Wright, Stephen J.*  
   **Numerical Optimization**  
   *{nocedal2006}*  
+
+* *Ulbrich, Michael and Ulbrich, Stefan*  
+  **Nichtlineare Optimierung**  
 
 
 
@@ -475,7 +484,7 @@
 
 * *Hiptmair, Ralf, Paganini, Alberto and Sargheini, Sahar*  
   **Comparison of approximate shape gradients**  
-  *{hiptmair2015}*
+  *{hiptmair2015}*  
     Habe ich für PAMM zitiert
 
 * *Hiptmair, Ralf and Paganini, Alberto*  
