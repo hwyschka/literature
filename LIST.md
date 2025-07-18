@@ -15,6 +15,7 @@
 
 * *Brezis, Haim*  
   **Functional Analysis, Sobolev Spaces and Partial Differential Equations**  
+  *{brezis}*  
   Empfehlung von Eleonora zu Sobolev Spaces
 
 * [Only physical]  
@@ -22,8 +23,7 @@
   **Partial Differential Equations**  
   *{evans2010}*
 
-* [Only physical]  
-  *Evans, Lawrence C. and Gariepy, Ronald F.*  
+* *Evans, Lawrence C. and Gariepy, Ronald F.*  
   **Measure Theory and Fine Properties of Functions**  
   *{evans2015}*
 
@@ -36,6 +36,10 @@
 * *Forster, Otto*  
   **Analysis 3**  
   {forster2017}  
+
+* *Tartar, Luc*  
+  **An Introduction to Sobolev Spaces and Interpolation Spaces**  
+  {tartar2007}  
 
 
 
@@ -75,16 +79,25 @@
   **Finite Element Methods for Navier-Stokes Equations**  
     On p.20 a definition of vector-valued Soblev norm  
 
+* *Larsson, Stig and Thomée, Vidar*  
+  **Partial Differential Equations with Numerical Methods**  
+    Also available in German: "Partielle Differentialgleichungen und Numerische Methoden."  
+    Laut Winni sind die ersten Kapitel eine sehr gute bzw. einfache Einführung in FEM. Zitat: "Leichte Abendlektüre".
+
 
 
 ### Misc
+
+* *Deufelhard, Peter and Hohmann, Andreas*  
+  **Numerische Mathematik**  
+  *{deufelhard2019}*  
 
 * *Heitzinger, Clemens*  
   **Algorithms with JULIA**  
 
 * *Horn, Roger A. and Johnson, Charles R.*  
   **Matrix Analysis**  
-  *{horn2012}*
+  *{horn2012}*  
 
 * *Iske, Armin and Rung, Thomas*  
   **Modeling, Simulation and Optimization of Fluid Dynamic Applications**  
@@ -97,6 +110,11 @@
 
 * *Quarteroni, Alfio and Valli, Alberto*  
   **Numerical Approximation of Partial Differential Equations**  
+  *{quarteroni1994}*  
+
+* *Saad, Yousef*  
+  **Iterative Methods for Sparse Linear Systems**  
+  *{saad2003}*  
 
 * *Toselli, Andrea and Widlund, Olof B.*  
   **Domain Decomposition Methods**  
@@ -120,10 +138,9 @@
   **Lectures on Convex Optimization**  
   *{nesterov2018}*  
 
-* [Only physical]  
-  *Nesterov, Yurii and Nemirovskij, Arkadij S.*  
-  **Interior-point polynomial algortihms in convex programming**  
-  *{nesterov2001}*  
+* *Nesterov, Yurii and Nemirovskij, Arkadij S.*  
+  **Interior-point polynomial algorithms in convex programming**  
+  *{nesterov1994}*  
 
 * *Nocedal, Jorge and Wright, Stephen J.*  
   **Numerical Optimization**  
@@ -131,6 +148,7 @@
 
 * *Ulbrich, Michael and Ulbrich, Stefan*  
   **Nichtlineare Optimierung**  
+  *{ulbrich2012}*
 
 
 
@@ -283,6 +301,12 @@
 
 
 
+### Analyis
+* *Gagliardo, Emilio*  
+  **Caratterizzazioni delle tracce sulla frontiera relative ad alcune classi di funzioni in n variabili**  
+  *{gagliardo1957}*
+
+
 ### Finite Element Methods
 
 * *Chen, Long*  
@@ -372,6 +396,14 @@
 
 ### *p*-Laplace
 
+* *Herzog, Roland and Wollner, Winnifried*  
+  **A conjugate direction method for linear systems in Banach spaces**  
+  *{herzog2017}*  
+  Das file ist nur der Preprint, weil die offizielle Version hinter der Paywall ist.  
+
+
+### *p*-Laplace
+
 * *Aragon, Adriana, Bonder, Julian F. and Rubio, Diana*  
   **Effective Numerical Computation of p(x)-Laplace Equations in 2D**
 
@@ -380,6 +412,7 @@
 
 * *Barrett, John W. and Liu, W. B.*  
   **Finite Element Approximation of the p-Laplacian**  
+  *{barrett1993}*  
 
 * *Bhattacharya, T., DiBenedetto, E. and Manfredi, J.*  
   **Limits as p → ∞ of ... and Related Extremal Problems**  
@@ -707,6 +740,10 @@
   **Towards Computing High-Order p-Harmonic Descent Directions and Their Limits in Shape Optimization**  
   *{wyschka2023}*  
 
+* *Wyschka, Henrik and Wollner, Winnifried*  
+  **A Trust-Region Method for p-Harmonic Shape Optimization**  
+  *{wyschka2025}*  
+
 
 
 
@@ -715,6 +752,9 @@
 
 * *Burger, Martin*  
   **Infinite-dimensional Optimization and Optimal Design**  
+
+* *Nemirovski, Arkadi*  
+  **Interior Point Polynomial Methods in Convex Programming**  
   
 * *Wollner, Winnifried*  
   **Nichlineare Optimierung**  
@@ -739,6 +779,11 @@
 * *Wick, Thomas and Wollner, Winnifried*  
   **DOpElib: Differential Equations and Optimization Environment**  
   *{dopelib}*  
+
+* *IEEE*  
+  **IEEE Standard for Floating-Point Arithmetic**  
+  *{ieee754}*  
+  Machine presicion 2^{-p} defining mantissa bits p, e.g., in Table 3.2  
 
 * [Only online]  
   *Siebenborn, Martin and Wyschka, Henrik*  
